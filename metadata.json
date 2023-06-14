@@ -1,0 +1,8 @@
+{
+ "uuid": "fixglitch@siscodev",
+ "name": "Fix Glitch",
+ "description": "An applet which can be used infront of the menu to fix icon alignment.",
+ "max-instances": -1,
+ "version": "1.0.0",
+ "emailme": "derekjsisco93@gmail.com"
+}
